@@ -193,7 +193,7 @@ void DMA2_Stream3_IRQHandler(void)
 void HAL_SPI_TxCpltCallback(SPI_HandleTypeDef *hspi)
 {
   // SPI for DAC2
-  if(hspi->Instance == SPI3)
+  if(hspi->Instance == SPI1)
   {
     // control CS
     HAL_GPIO_WritePin(SPI1_SYNC_GPIO_Port, SPI1_SYNC_Pin, GPIO_PIN_SET);
