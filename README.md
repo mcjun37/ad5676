@@ -9,9 +9,9 @@ Configuration
 I made a base project by using STM32CubeMx, you can modify and confirm configuration in STM32CubeMx project.
 Anyone can use this project and modify, but must retain copyright notice.
 
-AD5676: (https://www.analog.com/en/products/ad5676.html#product-overview)
-STM32F767ZI: (https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html)
-STM32CubeMx: (https://www.st.com/en/development-tools/stm32cubemx.html)
+AD5676: https://www.analog.com/en/products/ad5676.html#product-overview
+STM32F767ZI: https://www.st.com/en/microcontrollers-microprocessors/stm32f767zi.html
+STM32CubeMx: https://www.st.com/en/development-tools/stm32cubemx.html
 
 <!-- BUILD CONFIGURATION -->
 ### Build Configuration
